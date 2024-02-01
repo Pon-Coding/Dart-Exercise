@@ -1,0 +1,47 @@
+[
+    {
+        "productId": 1,
+        "productName": "Amaretto",
+        "productPrice": 5.95
+    },
+    {
+        "productId": 2,
+        "productName": "Bellinii",
+        "productPrice": 6.75
+    },
+    {
+        "productId": 3,
+        "productName": "Daiquiri",
+        "productPrice": 2.85
+    },
+    {
+        "productId": 4,
+        "productName": "Negronii",
+        "productPrice": 2.65
+    },
+    {
+        "productId": 5,
+        "productName": "Sangriae",
+        "productPrice": 4.53
+    },
+    {
+        "productId": 6,
+        "productName": "Cambodia",
+        "productPrice": 9.53
+    },
+    {
+        "productId": 7,
+        "productName": "Dngkorsu",
+        "productPrice": 4.21
+    },
+    {
+        "productId": 8,
+        "productName": "Mikidass",
+        "productPrice": 2.53
+    },
+    {
+        "productId": 9,
+        "productName": "Cocacola",
+        "productPrice": 2.50
+    }
+]
